@@ -1,0 +1,3 @@
+gym==0.12.1
+-e git+https://dmsoroki@bitbucket.org/dmsoroki/gym_interf.git@discrete#egg=gym_interf
+
